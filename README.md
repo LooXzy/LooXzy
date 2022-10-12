@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm LooXzy,
+- I’m working in cybersecurity 🛡️
+- I am a CTF player in my spare time 🚩
+
+
 <!--
 **LooXzy/LOOXZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
