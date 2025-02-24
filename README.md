@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm LooXzy,
-- I’m working in cybersecurity 🛡️
-- I am a CTF player in my spare time 🚩
+I'm LooXzy
 
 
 <!--
